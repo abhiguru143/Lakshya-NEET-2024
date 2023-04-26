@@ -1,0 +1,40 @@
+[
+  {
+    "topic": "Basic Mathematics : Revision || (NO DPP)",
+    "url": "3a4f59f0-5e48-493a-ae92-8e85f93c65cb",
+    "date": "08 Apr 2023",
+    "duration": "1:12:00",
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dafa33b3-6991-4fcc-bf49-cd0f8d938fbf.png",
+    "key": "https://d26g5bnklkwsh4.cloudfront.net/",
+    "240": "/hls/240/master.m3u8",
+    "360": "/hls/360/master.m3u8",
+    "480": "/hls/480/master.m3u8",
+    "720": "/hls/720/master.m3u8",
+    "n_name": "Basic Mathematics : Revision : Class Notes || Lakshya NEET 2024",
+    "n_pdf": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a90992ff-1a7d-4d50-b7fd-e03a8c0736bc.pdf",
+    "d_name": "",
+    "d_pdf": "",
+    "q_name": "",
+    "dq": "",
+    "question": ""
+  },
+  {
+    "topic": "Vector : Revision || (NO DPP)",
+    "url": "1ac591c3-8757-45b2-bb2b-c51ab1d2995b",
+    "date": "10 Apr 2023",
+    "duration": "1:17:59",
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/889e6930-3484-4960-abf8-e2663f7e6deb.png",
+    "key": "https://d26g5bnklkwsh4.cloudfront.net/",
+    "240": "/hls/240/master.m3u8",
+    "360": "/hls/360/master.m3u8",
+    "480": "/hls/480/master.m3u8",
+    "720": "/hls/720/master.m3u8",
+    "n_name": "Vector : Revision : Class Notes || Lakshya NEET 2024",
+    "n_pdf": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3697493e-c3ea-48fa-8f62-c673d6be78ab.pdf",
+    "d_name": "",
+    "d_pdf": "",
+    "q_name": "",
+    "dq": "",
+    "question": ""
+  }
+]
