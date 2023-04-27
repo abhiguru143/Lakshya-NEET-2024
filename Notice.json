@@ -2,26 +2,26 @@
   {
     "ch": "Test Syllabus || (Only PDF)",
     "num": "01",
-    "slug": ""
+    "slug": "test-syllabus"
   },
   {
     "ch": "Test Paper || (Only PDF)",
     "num": "02",
-    "slug": ""
+    "slug": "test-paper"
   },
   {
     "ch": "Board Pattern Test",
     "num": "03",
-    "slug": "Ch-01-Electric-Charges-and-Field"
+    "slug": "board-pattern-test"
   },
   {
     "ch": "Handbook || (Only PDF)",
     "num": "04",
-    "slug": ""
+    "slug": "handbook"
   },
   {
     "ch": "PCB : Mind Maps",
     "num": "05",
-    "slug": ""
+    "slug": "pcb-mind-maps"
   }
 ]
