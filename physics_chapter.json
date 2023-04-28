@@ -1,17 +1,12 @@
 [
   {
-    "ch": "All Content",
-    "num": "01",
-    "slug": "physics-all-content"
-  },
-  {
     "ch": "Revision",
-    "num": "02",
+    "num": "01",
     "slug": "physics-revision"
   },
   {
     "ch": "Ch-01 : Electric Charges and Field",
-    "num": "03",
+    "num": "02",
     "slug": "Ch-01-Electric-Charges-and-Field"
   }
 ]
