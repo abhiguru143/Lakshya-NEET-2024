@@ -20,8 +20,33 @@
     "slug": "handbook"
   },
   {
-    "ch": "PCB : Mind Maps",
+    "ch": "PHYSICS 12th : Mind Maps",
     "num": "05",
-    "slug": "pcb-mind-maps"
+    "slug": "class-12-physics-mindmap"
+  },
+  {
+    "ch": "CHEMISTRY 12th : Mind Maps",
+    "num": "06",
+    "slug": "class-12-chemistry-mindmap"
+  },
+  {
+    "ch": "BIOLOGY 12th : Mind Maps",
+    "num": "07",
+    "slug": "class-12-biology-mindmap"
+  },
+  {
+    "ch": "PHYSICS 11th : Mind Maps",
+    "num": "08",
+    "slug": "class-11-physics-mindmap"
+  },
+  {
+    "ch": "CHEMISTRY 11th : Mind Maps",
+    "num": "09",
+    "slug": "class-11-chemistry-mindmap"
+  },
+  {
+    "ch": "BIOLOGY 11th : Mind Maps",
+    "num": "10",
+    "slug": "class-11-biology-mindmap"
   }
 ]
