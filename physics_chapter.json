@@ -5,8 +5,18 @@
     "slug": "physics-revision"
   },
   {
-    "ch": "Ch-01 : Electric Charges and Field",
+    "ch": "NCERT Discussion",
     "num": "02",
+    "slug": "ncert-discussion"
+  },
+  {
+    "ch": "Ch-01 : Electric Charges and Field",
+    "num": "03",
     "slug": "Ch-01-Electric-Charges-and-Field"
+  },
+  {
+    "ch": "Ch-02 : Electrostatic Potential and Capacitance",
+    "num": "04",
+    "slug": "ch-02-electrostatic-potential-and-capacitance"
   }
 ]
