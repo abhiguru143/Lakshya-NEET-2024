@@ -1,12 +1,17 @@
 [
   {
-    "ch": "All Content",
+    "ch": "NCERT Discussion",
     "num": "01",
-    "slug": "zoology-all-content"
+    "slug": "zoo-ncert-discussion"
   },
   {
     "ch": "Ch-01 : Human Reproduction",
     "num": "02",
     "slug": "ch-01-human-reproduction"
+  },
+  {
+    "ch": "Ch-02 : Reproductive Health",
+    "num": "03",
+    "slug": "ch-02-reproductive-health"
   }
 ]
