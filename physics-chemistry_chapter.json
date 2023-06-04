@@ -1,12 +1,27 @@
 [
   {
-    "ch": "Ch-01 : Solutions",
+    "ch": "NCERT Discussion",
     "num": "01",
+    "slug": "p-c-ncert-discussion"
+  },
+  {
+    "ch": "Ch-01 : Solutions",
+    "num": "02",
     "slug": "ch-01-solutions"
   },
   {
     "ch": "Ch-02 : Chemical Kinetics",
-    "num": "01",
+    "num": "03",
     "slug": "ch-02-chemical-kinetics"
+  },
+  {
+    "ch": "Ch-03 : Electrochemistry",
+    "num": "04",
+    "slug": "ch-03-electrochemistry"
+  },
+  {
+    "ch": "Ch-04 : Solid State",
+    "num": "05",
+    "slug": "ch-04-solid-state"
   }
 ]
